@@ -4,7 +4,7 @@
 import requests
 import argparse
 from datetime import datetime, timedelta
-from typing import List, Dict
+from typing import Dict
 import json
 
 class OfferFilter:
