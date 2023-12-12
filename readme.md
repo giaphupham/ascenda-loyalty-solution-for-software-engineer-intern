@@ -25,7 +25,8 @@ Then run the script:
     
     cd software-engineer-intern
 
-##Usage
+
+## Usage
 Run the script with the following command:
     
     python script_name.py <checkin_date>
