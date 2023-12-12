@@ -13,7 +13,7 @@ Clone the repository to your local machine:
 
    ```bash
    git clone https://github.com/giaphupham/ascenda-loyalty-solution-for-software-engineer-intern.git
-```
 
-   cd software-engineer-intern
+    ```bash
+    cd software-engineer-intern
     ```
