@@ -23,7 +23,7 @@ Clone the repository to your local machine:
 
 Then run the script:
     
-    cd software-engineer-intern
+    cd ascenda-loyalty-solution-for-software-engineer-intern
 
 
 ## Usage
